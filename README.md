@@ -23,11 +23,11 @@ My experience extends beyond coding, encompassing strategic marketing initiative
 </p>
 
 
-## Language Metrics
+## Language metrics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=covamillan&layout=compact&hide=html,css)
 
 
-## How to Reach Me
+## How to reach me
 Connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/covadongamillangutierrez/)
 
