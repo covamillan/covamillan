@@ -23,9 +23,10 @@ My experience extends beyond coding, encompassing strategic marketing initiative
 </p>
 
 
-## Language metrics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=covamillan&layout=compact&hide=html,css)
-
+## Metrics
+![covamillan's Stats](https://github-readme-stats.vercel.app/api?username=covamillan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![covamillan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=covamillan&theme=vue-dark&hide_border=true)
+![covamillan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=covamillan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## How to reach me
 Connect with me on LinkedIn:
