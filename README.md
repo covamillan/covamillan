@@ -6,11 +6,17 @@ I consider myself as a dynamic web developer with strong skills in design and di
 As a full-stack developer, I bring a unique blend of technical expertise and creative insight to every project. 
 My experience extends beyond coding, encompassing strategic marketing initiatives that enhance the overall user experience.
 
-## Language Metrics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=covamillan&layout=compact&hide=html,css)
+## Toolkit
+- **MERN Stack:** MongoDB, Express.js, React, Node.js
+- **TypeScript**
+- **Redux**
+- **Sass**
+- **Firebase**
+- **Figma**
+- **Adobe Creative Suite**
 
-## Contributions
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=covamillan&show_icons=true&count_private=true&hide=prs)
+### Language Metrics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=covamillan&layout=compact&hide=html,css)
 
 ## How to Reach Me
 Connect with me on LinkedIn:
