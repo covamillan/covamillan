@@ -17,7 +17,6 @@ My experience extends beyond coding, encompassing strategic marketing initiative
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="80" height="80"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="100" height="80"> 
 <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="Sass" width="80" height="80"> 
-<img src="https://mlsb5edd0ks1.i.optimole.com/cb:q7B0.63723/w:502/h:518/q:mauto/f:best/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="Firebase" width="80" height="80"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" width="100" height="80"> 
 <img src="https://in-media.apjonlinecdn.com/catalog/product/a/d/adobe_with_txt.png" alt="Adobe Creative Suite" width="100" height="80">
 </p>
